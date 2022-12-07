@@ -18,8 +18,8 @@ global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global . pemilik  = [ '6282197210183' , '6282197210183' , '6282197210183' ]
-global.premium = ['66282197210183]
+global . pemilik  = [ '628819541553' , '628819541553' , '628819541553' ]
+global.premium = ['628819541553']
 global.packname = 'Ditzz Botss'
 global.author = 'WhatsApp Bot'
 global.wlcm = []
