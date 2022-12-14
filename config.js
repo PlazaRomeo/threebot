@@ -19,7 +19,7 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
 global . pemilik  = [ '628819541553' , '628819541553' , '628819541553' ]
-global.premium = ['628819541553']
+global.premium = ['6282197210183']
 global.packname = 'Ditzz Botss'
 global.author = 'WhatsApp Bot'
 global.wlcm = []
